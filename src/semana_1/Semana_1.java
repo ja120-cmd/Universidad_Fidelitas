@@ -112,15 +112,7 @@ public class Semana_1 {
        
        //-------------Primera clase de JAVA--------------
        
-      int p,p1,p2,pf; 
-      double fin;
-      p=Integer.parseInt(JOptionPane.showInputDialog("Participacion: "));
-      p1=Integer.parseInt(JOptionPane.showInputDialog("Primer Parcial: "));
-      p2=Integer.parseInt(JOptionPane.showInputDialog("Segundo Parcial: "));
-      pf=Integer.parseInt(JOptionPane.showInputDialog("Examen final: "));
-      fin=(p*0.10)+(p1*0.25)+(p2*0.25)+(pf*0.4);
-      JOptionPane.showMessageDialog(null, "Nota Final: "+fin);
-       
+     
        
     }
     
